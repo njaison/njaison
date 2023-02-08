@@ -1,7 +1,6 @@
 ### Hi! I'm Nidhi 👋
 
 #### 🔭 I’m currently studying CS at UMich
-#### 😄 Pronouns: (she/her)
 <!--
 **njaison/njaison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
